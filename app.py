@@ -7,5 +7,5 @@ c = st.number_input('Enter Third number')
 l = [a,b,c]
 
 st.header('The Greatest number is: '+str(max(l)))
-st.header('TDS week 8 Graded Assignment')
-st.header('Submitted by : 21f1002085@student.onlinedegree.iitm.ac.in')
+st.write('TDS week 8 Graded Assignment')
+st.write('Submitted by : 21f1002085@student.onlinedegree.iitm.ac.in')
